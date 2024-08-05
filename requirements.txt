@@ -1,0 +1,12 @@
+streamlit
+PyPDF2
+google.generativeai
+python-dotenv
+langchain
+faiss-cpu
+langchain_google_genai
+fpdf==1.7.2
+pyttsx3
+SpeechRecognition
+
+
