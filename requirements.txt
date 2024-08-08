@@ -8,6 +8,6 @@ langchain_google_genai
 fpdf==1.7.2
 pyttsx3
 SpeechRecognition
-psycopg2
+psycopg2-binary
 
 
